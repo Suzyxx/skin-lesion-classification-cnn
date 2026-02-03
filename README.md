@@ -75,7 +75,7 @@ Models were evaluated using:
 - Accuracy alone is insufficient for evaluating imbalanced medical datasets
 
 
-## 📚 Project Context
+## Project Context
 This project was completed as part of a **group university assignment**.  
 This repository contains the **notebook reflecting my individual implementation, experimentation, and analysis**.  
 The final written report was completed individually.
